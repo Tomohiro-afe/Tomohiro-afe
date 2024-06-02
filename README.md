@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomohiro-afe
-- 👀 I’m interested in software which can be widely used
-- 🌱 I’m currently learning API, database, Web(html, css) and c# for creating convenient and easy to use application
+- 👀 I’m interested in the tools that can be used to make our jobs efficiently
+- 🌱 I’m currently learning next-js, bayesian inference, generative AI
 - 📫 How to reach me on tomohiro0256@gmail.com
 
 <!---
